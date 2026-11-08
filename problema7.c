@@ -1,6 +1,6 @@
 /*Vera González Martínez
 Problema
-Ejercico7.c*/
+problema7.c*/
 
 #include<stdio.h>
 int main()
